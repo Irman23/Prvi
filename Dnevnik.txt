@@ -1,1 +1,2 @@
 Dnevnik 
+Ovdje programer piše kako se programira
